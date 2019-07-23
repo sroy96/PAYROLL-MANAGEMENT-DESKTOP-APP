@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PayrollerModelStoreContainer" CdmEntityContainer="PayrollerEntities1">
+    <EntitySetMapping Name="Transacciones">
+      <EntityTypeMapping TypeName="PayrollerModel.Transacciones">
+        <MappingFragment StoreEntitySet="Transacciones">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="Nombre_Empleados" ColumnName="Nombre_Empleados" />
+          <ScalarProperty Name="Nombre_Riesgos" ColumnName="Nombre_Riesgos" />
+          <ScalarProperty Name="Nombre_Ingresos" ColumnName="Nombre_Ingresos" />
+          <ScalarProperty Name="Nombre_Deducciones" ColumnName="Nombre_Deducciones" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

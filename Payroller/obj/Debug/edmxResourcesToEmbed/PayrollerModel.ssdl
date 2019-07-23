@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PayrollerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Departamentos">
+    <Key>
+      <PropertyRef Name="Id_Departamento" />
+    </Key>
+    <Property Name="Id_Departamento" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_Departamento" Type="nvarchar" MaxLength="70" />
+    <Property Name="Ubicacion_Departamento" Type="nvarchar" MaxLength="100" />
+    <Property Name="ResponsableArea_Departamento" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Empleados">
+    <Key>
+      <PropertyRef Name="Id_Empleado" />
+    </Key>
+    <Property Name="Id_Empleado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Cedula_Empleado" Type="nvarchar" MaxLength="20" />
+    <Property Name="Nombre_Empleado" Type="nvarchar" MaxLength="70" />
+    <Property Name="Apellido_Empleado" Type="nvarchar" MaxLength="70" />
+    <Property Name="Sexo_Empleado" Type="nvarchar" MaxLength="20" />
+    <Property Name="Direccion_Empleado" Type="nvarchar" MaxLength="200" />
+    <Property Name="Telefono_Empleado" Type="nvarchar" MaxLength="15" />
+    <Property Name="TelefonoE_Empleado" Type="nvarchar" MaxLength="15" />
+    <Property Name="Nacionalidad_Empleado" Type="nvarchar" MaxLength="60" />
+    <Property Name="EstadoCivil_Empleado" Type="nvarchar" MaxLength="50" />
+    <Property Name="CantidadHijos_Empleado" Type="int" />
+    <Property Name="Id_Departamento" Type="int" />
+    <Property Name="Id_Puesto" Type="int" />
+    <Property Name="SalarioMensual_Empleado" Type="decimal" Precision="19" Scale="2" />
+    <Property Name="Id_TipoNomina" Type="int" />
+  </EntityType>
+  <EntityType Name="NivelesRiesgo">
+    <Key>
+      <PropertyRef Name="Id_NivelRiesgo" />
+    </Key>
+    <Property Name="Id_NivelRiesgo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_NivelRiesgo" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="Detalle_NivelRiesgo" Type="nchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Puestos">
+    <Key>
+      <PropertyRef Name="Id_Puesto" />
+    </Key>
+    <Property Name="Id_Puesto" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_Puesto" Type="nvarchar" MaxLength="50" />
+    <Property Name="Id_NivelRiesgo" Type="int" />
+    <Property Name="MaximoSalario_Puesto" Type="decimal" Precision="19" Scale="2" />
+    <Property Name="Minimo_Salario" Type="decimal" Precision="19" Scale="2" />
+  </EntityType>
+  <EntityType Name="RegistroTransacciones">
+    <Key>
+      <PropertyRef Name="Id_RegistroTransaccion" />
+    </Key>
+    <Property Name="Id_RegistroTransaccion" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Id_Empleado" Type="int" />
+    <Property Name="Id_TipoIngreso" Type="int" />
+    <Property Name="Id_TipoDeduccion" Type="int" />
+    <Property Name="Tipo_RegistroTransaccion" Type="nvarchar" MaxLength="20" />
+    <Property Name="Fecha_RegistroTransaccion" Type="date" />
+    <Property Name="Monto_RegistroTransaccion" Type="decimal" Precision="19" Scale="2" />
+    <Property Name="Estado_RegistroTransaccion" Type="nvarchar" MaxLength="50" />
+    <Property Name="Periodo_RegistroTransaccion" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TiposDeducciones">
+    <Key>
+      <PropertyRef Name="Id_TipoDeduccion" />
+    </Key>
+    <Property Name="Id_TipoDeduccion" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_TipoDeduccion" Type="nvarchar" MaxLength="80" />
+    <Property Name="DependeSalario_TipoDeduccion" Type="nvarchar" MaxLength="2" />
+    <Property Name="Estado_TipoDeduccion" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TiposIngresos">
+    <Key>
+      <PropertyRef Name="Id_TipoIngreso" />
+    </Key>
+    <Property Name="Id_TipoIngreso" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_TipoIngreso" Type="nvarchar" MaxLength="80" />
+    <Property Name="DependeSalario_TipoIngreso" Type="nvarchar" MaxLength="2" />
+    <Property Name="Estado_TipoIngreso" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TiposNominas">
+    <Key>
+      <PropertyRef Name="Id_TipoNomina" />
+    </Key>
+    <Property Name="Id_TipoNomina" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_TipoNomina" Type="nchar" MaxLength="70" Nullable="false" />
+    <Property Name="Detalle_TipoNomina" Type="nchar" MaxLength="200" />
+  </EntityType>
+  <Association Name="FK__Empleados__Id_De__1DE57479">
+    <End Role="Departamentos" Type="Self.Departamentos" Multiplicity="0..1" />
+    <End Role="Empleados" Type="Self.Empleados" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departamentos">
+        <PropertyRef Name="Id_Departamento" />
+      </Principal>
+      <Dependent Role="Empleados">
+        <PropertyRef Name="Id_Departamento" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Empleados__Id_Pu__1ED998B2">
+    <End Role="Puestos" Type="Self.Puestos" Multiplicity="0..1" />
+    <End Role="Empleados" Type="Self.Empleados" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Puestos">
+        <PropertyRef Name="Id_Puesto" />
+      </Principal>
+      <Dependent Role="Empleados">
+        <PropertyRef Name="Id_Puesto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Empleados__Id_Ti__1FCDBCEB">
+    <End Role="TiposNominas" Type="Self.TiposNominas" Multiplicity="0..1" />
+    <End Role="Empleados" Type="Self.Empleados" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TiposNominas">
+        <PropertyRef Name="Id_TipoNomina" />
+      </Principal>
+      <Dependent Role="Empleados">
+        <PropertyRef Name="Id_TipoNomina" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Puestos__Id_Nive__20C1E124">
+    <End Role="NivelesRiesgo" Type="Self.NivelesRiesgo" Multiplicity="0..1" />
+    <End Role="Puestos" Type="Self.Puestos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NivelesRiesgo">
+        <PropertyRef Name="Id_NivelRiesgo" />
+      </Principal>
+      <Dependent Role="Puestos">
+        <PropertyRef Name="Id_NivelRiesgo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RegistroT__Id_Em__21B6055D">
+    <End Role="Empleados" Type="Self.Empleados" Multiplicity="0..1" />
+    <End Role="RegistroTransacciones" Type="Self.RegistroTransacciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleados">
+        <PropertyRef Name="Id_Empleado" />
+      </Principal>
+      <Dependent Role="RegistroTransacciones">
+        <PropertyRef Name="Id_Empleado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RegistroT__Id_Ti__22AA2996">
+    <End Role="TiposIngresos" Type="Self.TiposIngresos" Multiplicity="0..1" />
+    <End Role="RegistroTransacciones" Type="Self.RegistroTransacciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TiposIngresos">
+        <PropertyRef Name="Id_TipoIngreso" />
+      </Principal>
+      <Dependent Role="RegistroTransacciones">
+        <PropertyRef Name="Id_TipoIngreso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RegistroT__Id_Ti__239E4DCF">
+    <End Role="TiposDeducciones" Type="Self.TiposDeducciones" Multiplicity="0..1" />
+    <End Role="RegistroTransacciones" Type="Self.RegistroTransacciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TiposDeducciones">
+        <PropertyRef Name="Id_TipoDeduccion" />
+      </Principal>
+      <Dependent Role="RegistroTransacciones">
+        <PropertyRef Name="Id_TipoDeduccion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PayrollerModelStoreContainer">
+    <EntitySet Name="Departamentos" EntityType="Self.Departamentos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Empleados" EntityType="Self.Empleados" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NivelesRiesgo" EntityType="Self.NivelesRiesgo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Puestos" EntityType="Self.Puestos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RegistroTransacciones" EntityType="Self.RegistroTransacciones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TiposDeducciones" EntityType="Self.TiposDeducciones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TiposIngresos" EntityType="Self.TiposIngresos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TiposNominas" EntityType="Self.TiposNominas" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Empleados__Id_De__1DE57479" Association="Self.FK__Empleados__Id_De__1DE57479">
+      <End Role="Departamentos" EntitySet="Departamentos" />
+      <End Role="Empleados" EntitySet="Empleados" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Empleados__Id_Pu__1ED998B2" Association="Self.FK__Empleados__Id_Pu__1ED998B2">
+      <End Role="Puestos" EntitySet="Puestos" />
+      <End Role="Empleados" EntitySet="Empleados" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Empleados__Id_Ti__1FCDBCEB" Association="Self.FK__Empleados__Id_Ti__1FCDBCEB">
+      <End Role="TiposNominas" EntitySet="TiposNominas" />
+      <End Role="Empleados" EntitySet="Empleados" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Puestos__Id_Nive__20C1E124" Association="Self.FK__Puestos__Id_Nive__20C1E124">
+      <End Role="NivelesRiesgo" EntitySet="NivelesRiesgo" />
+      <End Role="Puestos" EntitySet="Puestos" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RegistroT__Id_Em__21B6055D" Association="Self.FK__RegistroT__Id_Em__21B6055D">
+      <End Role="Empleados" EntitySet="Empleados" />
+      <End Role="RegistroTransacciones" EntitySet="RegistroTransacciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RegistroT__Id_Ti__22AA2996" Association="Self.FK__RegistroT__Id_Ti__22AA2996">
+      <End Role="TiposIngresos" EntitySet="TiposIngresos" />
+      <End Role="RegistroTransacciones" EntitySet="RegistroTransacciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RegistroT__Id_Ti__239E4DCF" Association="Self.FK__RegistroT__Id_Ti__239E4DCF">
+      <End Role="TiposDeducciones" EntitySet="TiposDeducciones" />
+      <End Role="RegistroTransacciones" EntitySet="RegistroTransacciones" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

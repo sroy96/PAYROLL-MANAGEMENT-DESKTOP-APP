@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Nominas.xml>
+    <ID>5</ID>
+    <Empleado>Joshua Alexander</Empleado>
+    <Salario>9850.00</Salario>
+    <Fecha>11/26/2015</Fecha>
+  </Nominas.xml>
+  <Nominas.xml>
+    <ID>6</ID>
+    <Empleado>Alanna Guzmán</Empleado>
+    <Salario>12760.00</Salario>
+    <Fecha>11/26/2013</Fecha>
+  </Nominas.xml>
+  <Nominas.xml>
+    <ID>4</ID>
+    <Empleado>Juan Ernesto</Empleado>
+    <Salario>84325.00</Salario>
+    <Fecha>11/26/2016</Fecha>
+  </Nominas.xml>
+</DocumentElement>

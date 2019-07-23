@@ -1,0 +1,313 @@
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\bin\Debug\Payroller.exe.config
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\bin\Debug\Payroller.exe
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\bin\Debug\Payroller.pdb
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.exe
+c:\users\20142727\documents\visual studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\bin\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\bin\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\bin\Debug\EntityFramework.dll
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\bin\Debug\EntityFramework.xml
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+C:\Users\Juan Ernesto\Documents\Visual Studio 2013\Projects\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.exe
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller.exe.config
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller.exe
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.dll
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.xml
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Transacciones.resources
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller.mdf
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+C:\Users\Juan Ernesto\OneDrive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+D:\Payroller\Payroller\bin\Debug\Payroller.exe.config
+D:\Payroller\Payroller\obj\Debug\Payroller.exe
+D:\Payroller\Payroller\obj\Debug\Payroller.pdb
+D:\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+D:\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.Transacciones.resources
+D:\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+D:\Payroller\Payroller\bin\Debug\Payroller.mdf
+D:\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+D:\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+D:\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+D:\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+D:\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+D:\Payroller\Payroller\bin\Debug\Payroller.exe
+D:\Payroller\Payroller\bin\Debug\Payroller.pdb
+D:\Payroller\Payroller\bin\Debug\EntityFramework.dll
+D:\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.dll
+D:\Payroller\Payroller\bin\Debug\EntityFramework.xml
+D:\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.xml
+D:\Payroller\Payroller\obj\Debug\Payroller.Consultas.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\Payroller.mdf
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\Payroller.exe.config
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\EntityFramework.dll
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\EntityFramework.xml
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Consultas.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Database.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Login_2.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Principal_2.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Reportes.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.Transacciones.resources
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\RdlCompile.cache
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\RdlCompile.compiled
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Downloads\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller.mdf
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.cs
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller.exe.config
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.dll
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.xml
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Consultas.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Database.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Login_2.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Principal_2.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Reportes.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Google Drive\Documents\College\7th Program\Propietaria\Payroller\Payroller\obj\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\Payroller.exe.config
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\Payroller.mdf
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.cs
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.dll
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.xml
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Consultas.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Database.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Login_2.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Principal_2.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Reportes.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\RdlCompile.cache
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\RdlCompile.compiled
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\Payroller.exe.config
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.exe
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.pdb
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Consultas.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Database.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Login_2.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Principal_2.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Reportes.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\RdlCompile.cache
+D:\PAYROLLER2\Payroller\Payroller\obj\Debug\RdlCompile.compiled
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\Payroller.mdf
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\PayrollerDataSet.cs
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\Payroller.exe
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\Payroller.pdb
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\EntityFramework.dll
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.dll
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\EntityFramework.xml
+D:\PAYROLLER2\Payroller\Payroller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ernesto\Google Drive\Documents\College\Propietaria\Payroller\Payroller\obj\Debug\Payroller.Datos.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Consultas.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Database.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Datos.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Login_2.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Principal_2.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Reportes.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\obj\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\Payroller.exe.config
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\Payroller.mdf
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\PayrollerDataSet.cs
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Desktop\Payroller\Payroller\bin\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\Payroller.mdf
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\PayrollerDataSet.cs
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\Payroller.exe.config
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\bin\Debug\Payroller.pdb
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Consultas.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Database.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Datos.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Login_2.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Principal_2.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Reportes.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.Cache
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.exe
+C:\Users\Juan Ernesto\Documents\Job\Payroller\Payroller\obj\Debug\Payroller.pdb
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\Payroller.mdf
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\Payroller_log.ldf
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\PayrollerDataSet.cs
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\PayrollerDataSet.Designer.cs
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsc
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\PayrollerDataSet.xsd
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\PayrollerDataSet.xss
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\Payroller.exe.config
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\Payroller.exe
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\bin\Debug\Payroller.pdb
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.csprojAssemblyReference.cache
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Consultas.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Database.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Deducciones.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Departamentos.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Empleados.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Datos.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Ingresos.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Login_2.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Login.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Nominas.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Principal_2.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Principal.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Properties.Resources.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Puestos.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Reportes.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.Riesgos.resources
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.csproj.GenerateResource.cache
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.csproj.CoreCompileInputs.cache
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.exe
+C:\Users\SAURAV ROY\Desktop\Payroller-master\Payroller-master\Payroller\Payroller\obj\Debug\Payroller.pdb
